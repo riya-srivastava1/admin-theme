@@ -1,7 +1,7 @@
 @extends('layouts.app')
 @section('content')
     <!-- BEGIN #content -->
-    <div id="content" class="app-content mt-5">
+    <div id="content" class="app-content">
         <!-- BEGIN breadcrumb -->
         <ol class="breadcrumb float-xl-end">
             <li class="breadcrumb-item">Home</li>
@@ -71,3 +71,4 @@
         <!-- END row -->
     </div>
     <!-- END #content -->
+@endsection
